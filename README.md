@@ -17,7 +17,7 @@ Tesseract OCR<br>Docker<br>frontend
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Adi6583&limit=5&theme=default&combine_all_yearly_contributions=true)
-![Snake animation](./dist/snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Adi6583&icon=0&color=2)](https://visitcount.itsvg.in)
 
