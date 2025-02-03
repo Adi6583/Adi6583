@@ -1,6 +1,6 @@
 # 💫 About Me:                                      
 Hi I'm<br>
-Tesseract OCR<br>Docker<br>frontend-developer
+Tesseract OCR<br>Docker<br>frontend-developer     
 
 
 # 💻 Tech Stack:
